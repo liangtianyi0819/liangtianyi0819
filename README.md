@@ -1,6 +1,6 @@
 <p align="left" ><a href="https://www.linkedin.com/in/tianyi-liang-at-bu/"> <img src="https://komarev.com/ghpvc/?username=liangtianyi0819&label=Profile%20views&color=0e75b6&style=flat"> </a></p>
 
-<a href="https://www.linkedin.com/in/tianyi-liang-at-bu/"  target="_blank">
+<a href="https://www.linkedin.com/in/tianyi-liang-at-bu/" target="_blank">
 <img src="https://github.com/liangtianyi0819/liangtianyi0819/assets/78278453/8783d44b-ba8a-43c9-be15-34bf76cdc15d">
 </a>
 
