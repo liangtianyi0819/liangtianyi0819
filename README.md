@@ -35,8 +35,8 @@ I'm a Data Scientist with a Master's degree in Applied Data Analytics from Bosto
 # 📚 Best Projects
 
 - [Auto Mask Detection on Human Faces | Transfer Learning, InceptionV3, Python](https://www.kaggle.com/code/tianyiliang/mask-detection-with-transfer-learning-inceptionv3)
-- BCG PowerCo. Price Sensitivity Analysis | Machine Learning, Random Forest, python
-- Airline Passenger Satisfaction | Machine Learning, Big Data Analysis, PySpark      
+- [BCG PowerCo. Price Sensitivity Analysis | Machine Learning, Random Forest, python](https://github.com/liangtianyi0819/BCG-Price-Sensitivity-Analysis)
+- [Airline Passenger Satisfaction | Machine Learning, Python](https://github.com/liangtianyi0819/Prediction_of_Airline_Passenger_Satisfaction_with_Various_Machine_Learning_Models/blob/main/Project.ipynb)
 
 
 <h1>💼 Experience</h1>
