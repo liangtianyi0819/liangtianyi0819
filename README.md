@@ -5,8 +5,6 @@
 
 # Hi there, I'm Tianyi Liang 👋
 
-![Profile Pic](https://media.licdn.com/dms/image/D4E03AQEkoa5WPdNe3A/profile-displayphoto-shrink_800_800/0/1684159105117?e=1692230400&v=beta&t=ZVu78LCXwVOHQx_nAg8BQfCK2MOauBiKGgICwbbMZXg)
-
 I'm a budding Data Scientist with a Master's degree in Applied Data Analytics from Boston University. I'm proficient in Mathematical Modeling and Systems Analysis and am looking to apply these skills in a dynamic organization to drive strategic decision-making and enable business impact.
 
 ## 🎓 Education
