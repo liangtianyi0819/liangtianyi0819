@@ -3,7 +3,7 @@
 ![846a156e10ba5c5d6dcd41d00cbe2c59](https://github.com/liangtianyi0819/liangtianyi0819/assets/78278453/b36b179d-0604-4878-a9b9-caa6530e1a70)
 
 
-# Hi there, I'm Tianyi Liang 👋
+<p align="center"># Hi there, I'm Tianyi Liang 👋 </p>
 
 I'm a budding Data Scientist with a Master's degree in Applied Data Analytics from Boston University. I'm proficient in Mathematical Modeling and Systems Analysis and am looking to apply these skills in a dynamic organization to drive strategic decision-making and enable business impact.
 
