@@ -45,7 +45,7 @@ I'm a Data Scientist with a Master's degree in Applied Data Analytics from Bosto
 <h1>💼 Experience</h1>
 <ul>
   <li>
-    <img src="https://github.com/liangtianyi0819/liangtianyi0819/assets/78278453/dd1e9890-5663-4275-8ddf-6ddae9e23146" width="20" height="20" />
+    <img src="https://github.com/liangtianyi0819/liangtianyi0819/assets/78278453/b0aa5639-2421-4f29-aa9c-ef36e069b503" width="20" height="20" />
     Data Scientist Intern. at <a href="http://www.zhongruanhengxin.com/">Zhongruan Hengxin (Beijing) Technology Co., Ltd.</a>
   </li>
   <li>
